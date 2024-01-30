@@ -1,0 +1,1 @@
+[{"title":"Campera","description":"Cuerina sintetica","price":500,"img":"no image","code":100,"id":1},{"title":"Polera","description":"Poliester","price":5000,"img":"no image","code":300,"id":3}]
